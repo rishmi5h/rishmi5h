@@ -1,6 +1,7 @@
-### Hi there I'm Rishabh👋
+## Hi there I'm Rishabh👋
 find me @rishmi5h
-  
+
+
  [![wakatime](https://wakatime.com/badge/user/077cd7e0-9154-437d-ad33-f3f94fe83433.svg)](https://wakatime.com/@077cd7e0-9154-437d-ad33-f3f94fe83433)
 
 🧑‍💻 I'm currently working as Software Engineer at Optum(UHG) 
@@ -13,4 +14,4 @@ find me @rishmi5h
 
 📫 How to reach me: rish.mish.2607@gmail.com
 
-If debugging is removing bugs then coding is ...
+### If debugging is removing bugs then coding is ...  
