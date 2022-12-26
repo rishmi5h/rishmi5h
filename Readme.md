@@ -12,3 +12,5 @@ find me @rishmi5h
 💬 Ask me about Startups, Sports and debugging :)
 
 📫 How to reach me: rish.mish.2607@gmail.com
+
+If debugging is removing bugs then coding is ...
