@@ -6,9 +6,9 @@ find me @rishmi5h
 
 🧑‍💻 I'm currently working as Software Engineer at Optum(UHG) 
 
-🌱 I'm currently learning about microservices
+🌱 I'm currently learning about DSA - as I am looking for a new job :)
 
-📚 I completed my B.Tech (Electrical Enginneering) from NIT Raipur (2021)
+📚 I completed my B.Tech (Electrical Engineering) from NIT Raipur (2021)
 
 💬 Ask me about Startups, Sports and debugging :)
 
