@@ -14,6 +14,8 @@ find me @rishmi5h
 
 📫 How to reach me: mail@rishmi5h.com
 
+💼 Check out my portfolio - [Portfolio](https://rishmi5h.com/)
+
 🚀 Check out my few projects : - [terminal-portfolio](https://terminal.rishmi5h.com/)
                              -  [Sigma-ui : component library](https://sigma-ui.rishmi5h.com/)
                            -  [Imagery : image management](https://imagery.rishmi5h.com)
