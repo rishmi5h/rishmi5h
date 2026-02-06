@@ -1,6 +1,8 @@
 ## Hi there I'm Rishabh👋
 find me @rishmi5h
 
+🧑‍💻 Building [smar-ai](https://smarai.rishmi5h.com/)
+
 🌱 I'm currently learning about ai agents and llms :)
 
 💬 Ask me about Startups, Sports and debugging :)
