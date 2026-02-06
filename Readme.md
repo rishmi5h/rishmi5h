@@ -1,14 +1,7 @@
 ## Hi there I'm Rishabh👋
 find me @rishmi5h
 
-
- [![wakatime](https://wakatime.com/badge/user/077cd7e0-9154-437d-ad33-f3f94fe83433.svg)](https://wakatime.com/@077cd7e0-9154-437d-ad33-f3f94fe83433)
-
-🧑‍💻 I'm currently working as Senior Software Engineer at Optum(UHG) 
-
-🌱 I'm currently learning about system-design :)
-
-📚 I completed my B.Tech (Electrical Engineering) from NIT Raipur (2021)
+🌱 I'm currently learning about ai agents and llms :)
 
 💬 Ask me about Startups, Sports and debugging :)
 
