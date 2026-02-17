@@ -3,7 +3,7 @@ find me @rishmi5h
 
 🧑‍💻 Building [smar-ai](https://smarai.rishmi5h.com/)
 
-🌱 I'm currently learning about ai agents and llms :)
+🌱 I'm currently learning about ai agents and context problems faced by llms :)
 
 💬 Ask me about Startups, Sports and debugging :)
 
@@ -11,7 +11,22 @@ find me @rishmi5h
 
 💼 Check out my portfolio - [Portfolio](https://rishmi5h.com/)
 
-🚀 Check out my few projects : - [terminal-portfolio](https://terminal.rishmi5h.com/)
-                           -  [Imagery : image management](https://imagery.rishmi5h.com)
+🚀 projects: 
+   
+👨‍💻 [Smar AI](https://smarai.rishmi5h.com/)  - Understand any code, fast.
+
+👸 [Style Sync](https://stylesync.rishmi5h.com/)  - AI stylist and wordrobe planner.
+                              
+🌉 [Imagery](https://imagery.rishmi5h.com) - Image management
+ 
+Σ  [Sigma UI](https://sigma-ui.rishmi5h.com/) - Build UI faster and easier. 
+
+⏿  [Terminal Portfolio](https://terminal.rishmi5h.com/) - everything about me in terminal
+
+🏋🏼‍♂️ [Workout-tracker](https://github.com/rishmi5h/Workout-tracker) - Track your workouts
+
+🍠 [Roast as a service](https://raas.rishmi5h.com/roast) - Roasts you for fun
+
+🖤 [Black Unlimited](https://bu.rishmi5h.com/) - Ecommerce for Black color Apparels
 
 ### If debugging is removing bugs then coding is ...  
