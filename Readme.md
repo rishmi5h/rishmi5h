@@ -16,12 +16,12 @@ find me @rishmi5h
 👨‍💻 [Smar AI](https://smarai.rishmi5h.com/)  - Understand any code, fast.
 
 👸 [Style Sync](https://stylesync.rishmi5h.com/)  - AI stylist and wordrobe planner.
-                              
-🌉 [Imagery](https://imagery.rishmi5h.com) - Image management
+                               
+⦈ [Imagery](https://imagery.rishmi5h.com) - Image management
  
-Σ  [Sigma UI](https://sigma-ui.rishmi5h.com/) - Build UI faster and easier. 
+Σ [Sigma UI](https://sigma-ui.rishmi5h.com/) - Build UI faster and easier. 
 
-⏿  [Terminal Portfolio](https://terminal.rishmi5h.com/) - everything about me in terminal
+⏿ [Terminal Portfolio](https://terminal.rishmi5h.com/) - everything about me in terminal
 
 🏋🏼‍♂️ [Workout-tracker](https://github.com/rishmi5h/Workout-tracker) - Track your workouts
 
