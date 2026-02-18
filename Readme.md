@@ -23,7 +23,7 @@ find me @rishmi5h
 
 ⏿ [Terminal Portfolio](https://terminal.rishmi5h.com/) - everything about me in terminal
 
-🏋🏼‍♂️ [Workout-tracker](https://github.com/rishmi5h/Workout-tracker) - Track your workouts (adding UI)
+🏋🏼‍♂️ [Workout-tracker](https://github.com/rishmi5h/Workout-tracker) - Track your workouts (building UI)
 
 🍠 [Roast as a service](https://raas.rishmi5h.com/roast) - Roasts you for fun
 
