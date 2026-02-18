@@ -29,4 +29,8 @@ find me @rishmi5h
 
 🖤 [Black Unlimited](https://bu.rishmi5h.com/) - Ecommerce for Black color Apparels
 
+🚩 [Know the flags](https://flags.rishmi5h.com/) - Fun game to test your knowledge of flags
+
+❤️ [Do You Wanna go out with me](https://doyouwannagooutwith.rishmi5h.com/) - Fun site to ask your partner out for a date
+
 ### If debugging is removing bugs then coding is ...  
