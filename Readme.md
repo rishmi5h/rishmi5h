@@ -1,5 +1,5 @@
 ## Hi there I'm Rishabh👋
-find me @rishmi5h
+find me everywhere @rishmi5h
 
 🧑‍💻 Building [smar-ai](https://smarai.rishmi5h.com/)
 
