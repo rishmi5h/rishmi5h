@@ -25,7 +25,7 @@ find me @rishmi5h
 
 🏋🏼‍♂️ [Workout-tracker](https://github.com/rishmi5h/Workout-tracker) - Track your workouts (building UI)
 
-🍠 [Roast as a service](https://raas.rishmi5h.com/roast) - Roasts you for fun
+🍠 [Roast as a service](https://raas.rishmi5h.com/roast) - API that Roasts you for fun, use it in your projects
 
 🖤 [Black Unlimited](https://bu.rishmi5h.com/) - Ecommerce for Black color Apparels
 
